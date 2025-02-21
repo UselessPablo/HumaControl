@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HumaControl/static/css/main.e6c13ad2.css",
-    "main.js": "/HumaControl/static/js/main.bb13ae13.js",
+    "main.js": "/HumaControl/static/js/main.9d12b07c.js",
     "static/media/fondo.jpg": "/HumaControl/static/media/fondo.b704341e37b0d94c79ea.jpg",
     "index.html": "/HumaControl/index.html",
     "main.e6c13ad2.css.map": "/HumaControl/static/css/main.e6c13ad2.css.map",
-    "main.bb13ae13.js.map": "/HumaControl/static/js/main.bb13ae13.js.map"
+    "main.9d12b07c.js.map": "/HumaControl/static/js/main.9d12b07c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bb13ae13.js"
+    "static/js/main.9d12b07c.js"
   ]
 }
